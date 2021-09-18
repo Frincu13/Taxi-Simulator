@@ -8,4 +8,4 @@
    
 1.Dezvoltarea orasului in Houdini.[https://www.youtube.com/watch?v=MLhw95IYfIM&ab_channel=AlexFrincu](https://www.youtube.com/watch?v=MLhw95IYfIM&ab_channel=AlexFrincu)
 
-2. Dezvoltarea jocului in Unity.
+2. Dezvoltarea jocului in Unity.(Coming soon)
